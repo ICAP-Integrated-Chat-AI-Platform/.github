@@ -67,7 +67,7 @@ We value community contributions! If you're keen to contribute, please read our 
 - ([Code of Conduct](https://github.com/ICAP-Integrated-Chat-AI-Platform/.github/blob/CODE-OF-CONDUCT.md))
 
 ## License
-This project is licensed under [License Name] - see the ([LICENSE.md](https://github.com/ICAP-Integrated-Chat-AI-Platform/.github/blob/LICENCE.md)) file for details.
+This project is licensed under MIT License - see the ([LICENSE.md](https://github.com/ICAP-Integrated-Chat-AI-Platform/.github/blob/LICENCE.md)) file for details.
 
 ## Support & Feedback
 For support, feedback, or any queries, please contact us our ([Wiki](https://github.com/ICAP-Integrated-Chat-AI-Platform/.github/wiki)) or raise an issue in the repository.
