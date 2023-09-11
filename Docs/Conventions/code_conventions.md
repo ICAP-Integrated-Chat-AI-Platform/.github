@@ -19,10 +19,6 @@
 - Use the global logging system to log important events and errors. 
 - Do JWT-based, stateless authentication using the `requireJWTAuth` middleware.
 
-### 3. File Structure
-
-*Note: The API is undergoing a refactor to separate out the code for improved separation of concerns, testability, and maintainability. Any new APIs must follow the structure using the auth system as an example, which separates out the routes, controllers, services, and models into separate files.*
-
 #### Routes
 
 Specifies each http request method, any middleware to be used, and the controller function to be called for each route.
