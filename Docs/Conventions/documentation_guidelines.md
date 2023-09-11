@@ -1,6 +1,6 @@
 # Documentation Guidelines
 
-This document explains how to write and format documentation for LibreChat.
+This document explains how to write and format documentation for ICAP - Integrated Chat AI Platform.
 
 ## New Documents
 - Use lowercase letters and underscores to name new documents (e.g. `documentation_guidelines.md`).
