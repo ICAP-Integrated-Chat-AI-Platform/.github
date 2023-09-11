@@ -62,7 +62,9 @@ Details or guidelines about how to configure the platform and specific configura
 <p style="font-size: 0.8em; color: grey; margin-top: 20px;"><i>End to End Deployments and CI/CD will be included in the near future in this section.</i></p>
 
 ## Contributing
-We value community contributions! If you're keen to contribute, please read our central ([Contributing Guide](https://github.com/ICAP-Integrated-Chat-AI-Platform/.github/blob/CONTRIBUTING.md)).
+We value community contributions! If you're keen to contribute, please read our central 
+- ([Contributing Guide](https://github.com/ICAP-Integrated-Chat-AI-Platform/.github/blob/CONTRIBUTING.md))
+- ([Code of Conduct](https://github.com/ICAP-Integrated-Chat-AI-Platform/.github/blob/CODE-OF-CONDUCT.md))
 
 ## License
 This project is licensed under [License Name] - see the ([LICENSE.md](https://github.com/ICAP-Integrated-Chat-AI-Platform/.github/blob/LICENCE.md)) file for details.

@@ -8,8 +8,6 @@ If the feature you would like to contribute has not already received prior appro
 
 Please note that a pull request involving a feature that has not been reviewed and approved by the project maintainers may be rejected. We appreciate your understanding and cooperation.
 
-If you would like to discuss the changes you wish to make, join our [Discord community](https://discord.gg/uDyZ5Tzhct), where you can engage with other contributors and seek guidance from the community.
-
 ## Our Standards
 
 We strive to maintain a positive and inclusive environment within our project community. We expect all contributors to adhere to the following standards:
