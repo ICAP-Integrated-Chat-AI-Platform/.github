@@ -1,3 +1,14 @@
+<p align="Left">
+  <a href="https://discord.gg/P2XfVFVU"> 
+    <img
+      src="https://img.shields.io/badge/discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000">
+  </a>
+  <a href="https://github.com/ICAP-Integrated-Chat-AI-Platform/.github/wiki"> 
+    <img
+      src="https://img.shields.io/badge/WIKI-blue.svg?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=000000&logoWidth=20">
+  </a>
+</p>
+
 # ICAP: Integrated Chat AI Platform
 
 Welcome to the central documentation for the ICAP project. This document provides an overview of ICAP and points to the various repositories that form parts of the entire system.
