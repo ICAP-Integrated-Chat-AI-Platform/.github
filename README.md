@@ -21,6 +21,7 @@ ICAP (Integrated Chat AI Platform) is a cutting-edge software development projec
 Our project is split across multiple repositories for modularity and ease of maintenance. Below are the main repositories:
 
 - ([.github](https://github.com/ICAP-Integrated-Chat-AI-Platform/.github)): A special Github repository for organization to centralize project management accross the organization.
+- ([Documentation](https://github.com/ICAP-Integrated-Chat-AI-Platform/Documentation)): Repository for the project and product documentations.
 - ([FrontEnd-Client](https://github.com/ICAP-Integrated-Chat-AI-Platform/FrontEnd-Client)): Client side FrontEnd supporting the main UI to interact with LLM engine via Chat.
 - ([FrontEnd-Admin](https://github.com/ICAP-Integrated-Chat-AI-Platform/FrontEnd-Admin)): Admin FrontEnd to manage the platform, user management and integration with Enterprise Systems.
 - ([BackEnd](https://github.com/ICAP-Integrated-Chat-AI-Platform/Backend)): The backend manage calls between internal and external components, like the FrontEnds, the different LLM API, and community plugins, via a RestFul-API interface.
