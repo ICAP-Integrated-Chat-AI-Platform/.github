@@ -1,5 +1,5 @@
 <p align="Left">
-  <a href="https://discord.gg/P2XfVFVU"> 
+  <a href="https://discord.gg/SjF3aubMS5"> 
     <img
       src="https://img.shields.io/badge/discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000">
   </a>
